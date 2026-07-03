@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

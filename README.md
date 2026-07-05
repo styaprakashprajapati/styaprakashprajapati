@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->

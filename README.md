@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0724-find-pivot-index](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0073-set-matrix-zeroes) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 ## Monotonic Stack

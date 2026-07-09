@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3163-string-compression-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3163-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |

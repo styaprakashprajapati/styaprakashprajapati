@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3163-string-compression-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3163-string-compression-iii) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1313-decompress-run-length-encoded-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1313-decompress-run-length-encoded-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2270-number-of-ways-to-split-array) |
 ## Hash Table
 |  |

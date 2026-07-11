@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0214-shortest-palindrome) |
 | [0443-string-compression](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
@@ -162,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

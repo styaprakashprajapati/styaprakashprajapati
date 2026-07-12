@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -136,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree

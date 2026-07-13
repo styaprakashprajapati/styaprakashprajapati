@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bitmask
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer

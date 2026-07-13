@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0724-find-pivot-index) |
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
+| [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1313-decompress-run-length-encoded-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1313-decompress-run-length-encoded-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
+| [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 ## Enumeration
 |  |
 | ------- |

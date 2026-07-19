@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
 ## Simulation

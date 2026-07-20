@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1313-decompress-run-length-encoded-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1313-decompress-run-length-encoded-list) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2270-number-of-ways-to-split-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |

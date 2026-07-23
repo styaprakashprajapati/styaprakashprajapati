@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1313-decompress-run-length-encoded-list) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1480-running-sum-of-1d-array) |

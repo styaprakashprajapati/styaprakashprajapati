@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2270-number-of-ways-to-split-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0977-squares-of-a-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->

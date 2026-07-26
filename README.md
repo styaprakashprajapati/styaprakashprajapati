@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
+| [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -260,10 +262,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

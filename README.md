@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1089-duplicate-zeros) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1313-decompress-run-length-encoded-list) |

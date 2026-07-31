@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
+| [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3163-string-compression-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3163-string-compression-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0724-find-pivot-index) |
+| [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 | [0941-valid-mountain-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0941-valid-mountain-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
 | [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
 ## Counting Sort
 |  |

@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
+| [0904-fruit-into-baskets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0977-squares-of-a-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
+| [0904-fruit-into-baskets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0904-fruit-into-baskets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search

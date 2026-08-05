@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1089-duplicate-zeros](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1089-duplicate-zeros) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1672-richest-customer-wealth](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1480-running-sum-of-1d-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2270-number-of-ways-to-split-array) |
 ## Sliding Window

@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1313-decompress-run-length-encoded-list) |
+| [1314-matrix-block-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1314-matrix-block-sum) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1314-matrix-block-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1314-matrix-block-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1480-running-sum-of-1d-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2270-number-of-ways-to-split-array) |
 ## Sliding Window

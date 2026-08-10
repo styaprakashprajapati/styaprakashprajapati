@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0904-fruit-into-baskets) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0923-3sum-with-multiplicity](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0923-3sum-with-multiplicity) |
 | [0941-valid-mountain-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0974-subarray-sums-divisible-by-k) |

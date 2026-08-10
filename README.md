@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0132-palindrome-partitioning-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

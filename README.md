@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2270-number-of-ways-to-split-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2594-minimum-time-to-repair-cars) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2594-minimum-time-to-repair-cars](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2594-minimum-time-to-repair-cars) |
 ## Divide and Conquer
 |  |
 | ------- |

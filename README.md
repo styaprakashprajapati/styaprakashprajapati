@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0069-sqrtx) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |

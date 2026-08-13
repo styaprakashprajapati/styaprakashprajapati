@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0132-palindrome-partitioning-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0132-palindrome-partitioning-ii) |

@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0209-minimum-size-subarray-sum) |

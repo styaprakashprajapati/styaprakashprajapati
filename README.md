@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0066-plus-one) |
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

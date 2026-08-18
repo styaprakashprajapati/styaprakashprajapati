@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0051-n-queens) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0073-set-matrix-zeroes) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0059-spiral-matrix-ii) |
@@ -415,5 +419,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

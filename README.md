@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0611-valid-triangle-number) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

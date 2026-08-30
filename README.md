@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3163-string-compression-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3163-string-compression-iii) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2270-number-of-ways-to-split-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2594-minimum-time-to-repair-cars) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2965-find-missing-and-repeated-values) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Stack
 |  |
 | ------- |

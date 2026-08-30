@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
 | [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3163-string-compression-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/3163-string-compression-iii) |

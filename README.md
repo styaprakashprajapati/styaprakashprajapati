@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0560-subarray-sum-equals-k) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
+| [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 | [1929-concatenation-of-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1929-concatenation-of-array) |

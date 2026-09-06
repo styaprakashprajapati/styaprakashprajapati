@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0485-max-consecutive-ones) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0456-132-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0456-132-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0456-132-pattern) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0704-binary-search) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
 ## Simulation

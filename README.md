@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0456-132-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0456-132-pattern) |
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0457-circular-array-loop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

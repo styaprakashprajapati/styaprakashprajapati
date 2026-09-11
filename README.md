@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |

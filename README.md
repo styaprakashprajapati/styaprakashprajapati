@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0242-valid-anagram) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0146-lru-cache) |
 ## Tree
 |  |
 | ------- |
@@ -537,4 +539,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

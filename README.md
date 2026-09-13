@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0151-reverse-words-in-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
 ## Binary Tree

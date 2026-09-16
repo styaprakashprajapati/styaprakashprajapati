@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1137-n-th-tribonacci-number) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0044-wildcard-matching) |
+| [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

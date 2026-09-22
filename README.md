@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 ## Ordered Set
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |

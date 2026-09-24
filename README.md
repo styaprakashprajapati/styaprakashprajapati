@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
+| [0593-valid-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0593-valid-square) |
 | [1137-n-th-tribonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2235-add-two-integers) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
+| [0593-valid-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0593-valid-square) |
 ## Euclidean Algorithm
 |  |
 | ------- |

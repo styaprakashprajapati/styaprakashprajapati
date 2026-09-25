@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0904-fruit-into-baskets) |
@@ -469,12 +472,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [0923-3sum-with-multiplicity](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0819-most-common-word) |
 | [0923-3sum-with-multiplicity](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0923-3sum-with-multiplicity) |
 | [1748-sum-of-unique-elements](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1748-sum-of-unique-elements) |
@@ -545,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
 | [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
+| [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
 ## Tournament Sort
 |  |
 | ------- |

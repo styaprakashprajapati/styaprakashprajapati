@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0087-scramble-string) |
+| [0127-word-ladder](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0151-reverse-words-in-a-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
@@ -597,4 +599,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

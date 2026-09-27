@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |

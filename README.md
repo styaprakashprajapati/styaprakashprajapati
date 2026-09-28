@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0132-palindrome-partitioning-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |

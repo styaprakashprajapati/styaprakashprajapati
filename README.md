@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
+| [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
+| [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Math
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
+| [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0593-valid-square) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
 | [1137-n-th-tribonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1137-n-th-tribonacci-number) |
@@ -611,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0127-word-ladder) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->

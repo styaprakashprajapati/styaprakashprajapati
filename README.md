@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
 ## Tournament Sort

@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0885-spiral-matrix-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0127-word-ladder) |
+| [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |
 ## Bidirectional Search
 |  |
 | ------- |

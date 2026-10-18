@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0120-triangle) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0316-remove-duplicate-letters) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0456-132-pattern) |
@@ -682,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0095-unique-binary-search-trees-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

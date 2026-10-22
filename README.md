@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0101-symmetric-tree) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0101-symmetric-tree) |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0098-validate-binary-search-tree) |
 ## Range Minimum/Maximum Query
 |  |

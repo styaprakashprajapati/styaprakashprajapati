@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |

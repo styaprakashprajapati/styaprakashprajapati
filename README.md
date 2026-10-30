@@ -729,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0133-clone-graph) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->

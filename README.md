@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0316-remove-duplicate-letters) |
+| [0420-strong-password-checker](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0420-strong-password-checker) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0316-remove-duplicate-letters) |
+| [0420-strong-password-checker](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0420-strong-password-checker) |
 | [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
+| [0420-strong-password-checker](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
 ## Tournament Sort

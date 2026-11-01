@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |

@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |

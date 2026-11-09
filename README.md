@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0312-burst-balloons) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0420-strong-password-checker](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -772,4 +776,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0354-russian-doll-envelopes) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

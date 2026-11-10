@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0187-repeated-dna-sequences) |
+| [0212-word-search-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0242-valid-anagram) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bit Manipulation
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0212-word-search-ii) |
 ## Geometry
 |  |
 | ------- |

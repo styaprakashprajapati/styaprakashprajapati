@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0420-strong-password-checker) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0443-string-compression) |
+| [0466-count-the-repetitions](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0354-russian-doll-envelopes) |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
+| [0466-count-the-repetitions](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0457-circular-array-loop) |
+| [0466-count-the-repetitions](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0466-count-the-repetitions) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0611-valid-triangle-number) |

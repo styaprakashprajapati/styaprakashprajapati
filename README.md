@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0079-word-search) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0094-binary-tree-inorder-traversal) |

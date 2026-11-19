@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
+| [0447-number-of-boomerangs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0447-number-of-boomerangs) |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0457-circular-array-loop) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |

@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0509-fibonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0509-fibonacci-number) |
+| [0526-beautiful-arrangement](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0553-optimal-division) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0526-beautiful-arrangement) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
@@ -145,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
+| [0526-beautiful-arrangement](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0645-set-mismatch) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bitmask
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0464-can-i-win) |
+| [0526-beautiful-arrangement](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0526-beautiful-arrangement) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Math
 |  |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0553-optimal-division) |

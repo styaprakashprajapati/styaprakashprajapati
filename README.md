@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1137-n-th-tribonacci-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/1137-n-th-tribonacci-number) |

@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0355-design-twitter) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0447-number-of-boomerangs) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
+| [0355-design-twitter](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0355-design-twitter) |
 ## Tree
 |  |
 | ------- |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
+| [0355-design-twitter](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0355-design-twitter) |
 | [0420-strong-password-checker](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0621-task-scheduler) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |

@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0198-house-robber) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0229-majority-element-ii) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
 ## Breadth-First Search
 |  |
@@ -820,4 +823,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0229-majority-element-ii) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0316-remove-duplicate-letters) |
 | [0420-strong-password-checker](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0420-strong-password-checker) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0306-additive-number) |
 | [0526-beautiful-arrangement](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0526-beautiful-arrangement) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bit Manipulation

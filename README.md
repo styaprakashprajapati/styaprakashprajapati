@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0354-russian-doll-envelopes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0561-array-partition) |
 ## Recursion
 |  |

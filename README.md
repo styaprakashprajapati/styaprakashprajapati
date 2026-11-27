@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0228-summary-ranges) |
@@ -505,17 +506,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0493-reverse-pairs) |
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sweep Line
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0218-the-skyline-problem) |
 | [0850-rectangle-area-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0850-rectangle-area-ii) |
 ## Sorting
 |  |
@@ -583,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0179-largest-number) |
+| [0218-the-skyline-problem](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0242-valid-anagram) |
@@ -710,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/styaprakashprajapati/styaprakashprajapati/tree/master/0355-design-twitter) |
